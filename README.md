@@ -9,7 +9,7 @@
 This is a project of a company that wants to know what to earn from each region that they are selling their products to. 
 
 The task to be done are; 
-Removing Duplicate IDs - so ensure that each ID in the data set is unique identifying and removing any duplicate entries. 
+Removing Duplicate IDs - ensuring that each ID in the dataset is unique by identifying and removing any duplicate entries. 
 
 Secondly, Handling Infinite Values-  To identify and drop any rows where the price per unit column contains "inf", has those values are not valid for analysis.
 
